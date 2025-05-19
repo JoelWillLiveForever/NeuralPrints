@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/JoelWillLiveForever/neuralprints-react
+[submodule "server"]
+	path = server
+	url = https://github.com/JoelWillLiveForever/neuralprints-fastapi
